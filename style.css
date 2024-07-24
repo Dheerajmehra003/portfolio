@@ -1,0 +1,147 @@
+.button_container{
+width: 100%;
+margin: auto;
+text-align: center;
+height: 50px;
+}
+.topbutton1{
+  font-size: 20px;
+  font-weight: bold;
+  float: right;
+  width: 10%;
+  margin-left: 20px;
+  background-color: brown;
+  cursor: pointer;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  
+}
+.topbutton2{
+  font-size: 20px;
+  font-weight: bold;
+  float: right;
+  width: 10%;
+  background-color: aquamarine;
+  cursor: pointer;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.profile_info{
+  width: 100%;
+}
+.profile_text1{
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+.profile_text2{
+  font-size: 30px;
+  text-align: center;
+}
+.profile_container{
+  width: 100%;
+  margin: auto;
+  text-align: center;
+}
+.profile_image{
+  width: 200px;
+  height: 200px;
+  display: inline;
+}
+.frame3_container{
+  width: 80%;
+  height: 400px;
+  margin: auto;
+  margin-top: -10%;
+  background-color: white;
+  border: 2px solid black;
+}
+.frame3_content{
+  width: 30%;
+  float: left;
+  margin-left: 25px;
+}
+.frame3_heading{
+  font-size: 30px;
+}
+.skill_tool_title{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
+.skill_container{
+  margin: 'auto';
+  width: 100%;
+
+}
+.skill_card{
+  /* width: 50%; */
+  /* margin: 100px 15%;
+   */
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-right: 18%;
+  margin-left: 18%;
+  display: inline;
+}
+.skill_image{
+  width: 100px;
+  height: 100px;
+}
+.project_container{
+  width: 100%;
+  height: 700px;
+  border: 2px solid black;
+}
+.frame_project{
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+.project_frame{
+  width: 100%;
+  height: 200px;
+}
+.project1{
+ font-size: 40px;
+ float: left;
+ width: 500px;
+ height: 200px;
+margin-left: 100px;
+background-color: blueviolet;
+text-align: center;
+}
+.project2{
+  font-size: 40px;
+  float: left;
+  width: 500px;
+  height: 200px;
+  margin-left: 100px;
+  background-color: blueviolet;
+  text-align: center;
+  margin-top: 50px;
+}
+.bottom_container{
+  width: 100%;
+  height: 400px;
+  background-color: blueviolet;
+}
+.bottom_text{
+  font-size: 40px;
+  text-align: center; 
+}
+.info{
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+}
