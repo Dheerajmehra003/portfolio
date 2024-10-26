@@ -36,6 +36,14 @@ height: 50px;
   padding-left: 10px;
   padding-right: 10px;
 }
+.universalflex{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+/* .frame1{
+  margin: 50px;
+} */
 .profile_info{
   width: 100%;
 }
@@ -48,6 +56,9 @@ height: 50px;
   font-size: 30px;
   text-align: center;
 }
+/* .frame2{
+  margin: 50px;
+} */
 .profile_container{
   width: 100%;
   margin: auto;
@@ -58,22 +69,40 @@ height: 50px;
   height: 200px;
   display: inline;
 }
+/* .frame3{
+  margin: 50px;
+} */
+.infoflex{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: 50px;
+}
+/* .frame4{
+  margin: 50px;
+} */
 .frame3_container{
+  display: flex;
+  justify-content: center;
   width: 80%;
   height: 400px;
   margin: auto;
-  margin-top: -10%;
   background-color: white;
   border: 2px solid black;
+  position: relative;
+  top: -150px;
+  border-radius: 50px;
 }
 .frame3_content{
   width: 30%;
-  float: left;
   margin-left: 25px;
 }
 .frame3_heading{
   font-size: 30px;
 }
+/* .frame5{
+  margin: 50px;
+} */
 .skill_tool_title{
   font-size: 30px;
   font-weight: bold;
@@ -82,7 +111,10 @@ height: 50px;
 .skill_container{
   margin: 'auto';
   width: 100%;
-
+}
+.skillflex{
+  display: flex;
+  justify-content: center;
 }
 .skill_card{
   /* width: 50%; */
@@ -93,11 +125,14 @@ height: 50px;
   margin-right: 18%;
   margin-left: 18%;
   display: inline;
-}
+} 
 .skill_image{
   width: 100px;
   height: 100px;
 }
+/* .frame6{
+  margin: 50px;
+} */
 .project_container{
   width: 100%;
   height: 700px;
@@ -109,28 +144,31 @@ height: 50px;
   text-align: center;
 }
 .project_frame{
-  width: 100%;
-  height: 200px;
+  display: flex;
+  justify-content: center;
 }
 .project1{
  font-size: 40px;
  float: left;
- width: 500px;
+ width: 400px;
  height: 200px;
-margin-left: 100px;
+margin-left: 50px;
 background-color: blueviolet;
 text-align: center;
 }
 .project2{
   font-size: 40px;
   float: left;
-  width: 500px;
+  width: 400px;
   height: 200px;
-  margin-left: 100px;
+  margin-left: 50px;
   background-color: blueviolet;
   text-align: center;
   margin-top: 50px;
 }
+/* .frame7{
+  margin: 50px;
+} */
 .bottom_container{
   width: 100%;
   height: 400px;
